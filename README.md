@@ -14,7 +14,7 @@ using TF-IDF vectorization and cosine similarity.
 - Algorithm: TF-IDF + Cosine Similarity
 - Dataset: 123,842 LinkedIn job postings
 - Features: 5,000 TF-IDF features
-- view source on HuggingFace [https://huggingface.co/spaces/Riochi511/nlp-job-matcher/docs]
+- view source on HuggingFace [https://huggingface.co/spaces/Riochi511/nlp-job-matcher/doc]
 
 ## 📥 How to Use
 
