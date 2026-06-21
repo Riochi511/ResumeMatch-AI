@@ -24,6 +24,7 @@ Send a POST request to /match:
   "resume_text": "Python machine learning data science",
   "top_n": 5
 }
+```
 ## 🛠 Setup
 ```bash
 pip install -r requirements.txt
