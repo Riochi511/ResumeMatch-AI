@@ -1,6 +1,7 @@
-*.pkl
-*.csv
+tfidf_matrix.pkl
 venv/
 __pycache__/
 *.pyc
 .env
+nlp-job-matcher-artifacts/
+jobs_clean.csv

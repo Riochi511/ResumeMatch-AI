@@ -10,8 +10,8 @@ app = FastAPI()
 
 # Load artifacts at startup
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
-tfidf_matrix = joblib.load("tfidf_matrix.pkl")
 jobs_df = pd.read_csv("jobs_clean.csv")
+tfidf_matrix = vectorizer.transform(jobs_df["description"].fillna(""))
 
 class ResumeInput(BaseModel):
     resume_text: str
