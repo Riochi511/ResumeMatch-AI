@@ -25,9 +25,11 @@ Send a POST request to /match:
   "top_n": 5
 }
 ## 🛠 Setup
+```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
-👤 Author
+```
+
+## 👤 Author
 Bright Alfred Riochi | AI/ML Engineer
-GitHub |
-LinkedIn
+[GitHub](https://github.com/Riochi511) | [LinkedIn](https://www.linkedin.com/in/riochi-ai453b9)
