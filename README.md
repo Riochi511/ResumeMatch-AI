@@ -1,6 +1,6 @@
 # 📄 ResumeMatch AI
 
-An NLP-powered job matching application that analyzes a candidate's resume and ranks the most relevant job opportunities using TF-IDF vectorization and cosine similarity.
+An AI-powered resume-to-job matching application that analyzes a candidate's resume and ranks the most relevant job opportunities using TF-IDF vectorization and cosine similarity.
 
 The application extracts text from uploaded resumes (PDF or DOCX), converts the resume into numerical feature vectors, compares it with job descriptions, and returns the top matching jobs through a FastAPI backend.
 
