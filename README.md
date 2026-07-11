@@ -1,4 +1,4 @@
-# 📄 NLP Job Matcher
+# 📄 ResumeMatch AI
 
 An NLP-powered job matching application that analyzes a candidate's resume and ranks the most relevant job opportunities using TF-IDF vectorization and cosine similarity.
 
